@@ -114,7 +114,7 @@ text-decoration: none;
 /* Footer */
 .footer {
     background-color: var(--primary-color);
-    padding: 2rem 1rem;
+    padding: 0.5rem 0rem;
     text-align: center;
     color:rgb(243, 237, 237);
     border-top-right-radius: 1rem;
